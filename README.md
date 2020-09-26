@@ -7,3 +7,4 @@
 - Largest element in array `array_maximum.cpp`
 - Checking element if it's in array `check_occurence.cpp`
 - Triple if it's equal `triple_if_equals.cpp`
+- Array sum (sum of all elements) `array_sum.cpp`
