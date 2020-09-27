@@ -22,3 +22,4 @@
 - Mean `mean.cpp`
 - Main diagonal sum `main_diagonal_sum.cpp`
 - Seperate odd and even numbers `seperate_odd_even.cpp`
+- Character counter `character_counter.cpp`
