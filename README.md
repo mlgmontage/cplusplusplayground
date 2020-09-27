@@ -21,3 +21,4 @@
 - Find the triplet with zero sum `find_the_triplet.cpp`
 - Mean `mean.cpp`
 - Main diagonal sum `main_diagonal_sum.cpp`
+- Seperate odd and even numbers `seperate_odd_even.cpp`
