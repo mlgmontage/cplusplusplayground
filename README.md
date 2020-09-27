@@ -2,6 +2,13 @@
 
 ---
 
+## Algorithms
+
+- Binary search (time complexity O(logn))
+- Linear search (time complexity O(n))
+
+---
+
 ### Solved problems
 
 - Largest element in array `array_maximum.cpp`
