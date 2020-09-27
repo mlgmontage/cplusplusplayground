@@ -12,3 +12,4 @@
 - Find the missing number `find_the_missing_number_second.cpp`
 - Arithmetic number `arithmetic_number.cpp`
 - Find the triplet with zero sum `find_the_triplet.cpp`
+- Mean `mean.cpp`
