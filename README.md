@@ -20,3 +20,4 @@
 - Arithmetic number `arithmetic_number.cpp`
 - Find the triplet with zero sum `find_the_triplet.cpp`
 - Mean `mean.cpp`
+- Main diagonal sum `main_diagonal_sum.cpp`
