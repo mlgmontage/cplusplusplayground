@@ -25,3 +25,4 @@
 - Character counter `character_counter.cpp`
 - A Bear and Big Brother `a_bear_and_big_brother.cpp`
 - String reverse `string_reverse.cpp`
+- Palindromic check `palindromic_check.cpp`
