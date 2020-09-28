@@ -28,3 +28,7 @@
 - Palindromic check `palindromic_check.cpp`
 - Calculate factorial (loop) `factorial_loop.cpp`
 - Calculate factorial (recursion) `factorial_recursion.cpp`
+
+#### Linked Lists
+
+- Sum of linked list `LinkedList/linked_list_sum.cpp`
