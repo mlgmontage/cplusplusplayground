@@ -36,6 +36,7 @@
 - Palindromic check `palindromic_check.cpp`
 - Calculate factorial (loop) `factorial_loop.cpp`
 - Calculate factorial (recursion) `factorial_recursion.cpp`
+- Running sum of of 1D array `running_sum_of_array.cpp`
 
 #### Linked Lists
 
