@@ -4,8 +4,16 @@
 
 ## Algorithms
 
+### Array
+
 - Binary search (time complexity O(logn))
 - Linear search (time complexity O(n))
+
+---
+
+## Data Structures
+
+- Linked List `LinkedList/Linked_List.cpp`
 
 ---
 
