@@ -37,6 +37,7 @@
 - Calculate factorial (loop) `factorial_loop.cpp`
 - Calculate factorial (recursion) `factorial_recursion.cpp`
 - Running sum of of 1D array `running_sum_of_array.cpp`
+- How many numbers `how_many_numbers.cpp`
 
 #### Linked Lists
 
