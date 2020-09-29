@@ -38,6 +38,7 @@
 - Calculate factorial (recursion) `factorial_recursion.cpp`
 - Running sum of of 1D array `running_sum_of_array.cpp`
 - How many numbers `how_many_numbers.cpp`
+- Maximum 69 number `maximum_69_number.cpp`
 
 #### Linked Lists
 
