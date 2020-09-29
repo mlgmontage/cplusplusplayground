@@ -39,6 +39,7 @@
 - Running sum of of 1D array `running_sum_of_array.cpp`
 - How many numbers `how_many_numbers.cpp`
 - Maximum 69 number `maximum_69_number.cpp`
+- Subtract the Product and Sum of Digits of an Integer `substract_the_product_and_sum.cpp`
 
 #### Linked Lists
 
